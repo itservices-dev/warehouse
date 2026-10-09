@@ -1,0 +1,24 @@
+/public/hot
+/storage/*.key
+/dist
+# .env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.DS_Store
+/node_modules
+/vendor
+
+.env
+/public/build_old
+
+/public/build
+
+/public/assets
+
+/index2.php
+/resources/js/Jetstream/ApplicationMark - Copy.vue
